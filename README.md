@@ -1,3 +1,5 @@
+<img width="1615" height="395" alt="Screenshot 2025-07-03 000037" src="https://github.com/user-attachments/assets/acda3f12-bc97-42df-a9c1-86a58394578b" />
+
 # **APB\_Based\_GPIO\_Core**
 
 A Verilog-based GPIO IP core interfaced with the **AMBA 3 APB protocol**. This project includes RTL modules, testbenches, and waveform verification for register-level GPIO design and control.
