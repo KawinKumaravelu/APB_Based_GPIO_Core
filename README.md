@@ -48,10 +48,3 @@ This project implements a **General Purpose Input/Output (GPIO) core** using **V
 * **ModelSim** – Simulation and waveform viewing
 * **Quartus Prime** – RTL Synthesis
 * **Verilog HDL** – Hardware description and testbench creation
-
-## **✅ How to Run (Simulation)**
-
-1. Open ModelSim or any Verilog simulator.
-2. Compile all RTL and TB files.
-3. Run `tb_GPIO_top.v` (or any individual block testbench).
-4. View output waveforms and verify GPIO operation.
